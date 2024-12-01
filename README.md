@@ -4,15 +4,15 @@ It's the favourite time of the year for developers - Advent of Code 2024! Join m
 
 ## Solutions 
 
-Day 1 - JavaScript
-Day 2 - Python
-Day 3 - JavaScript
-Day 4 - Python
-Day 5 - JavaScript
-Day 6 - Python
-Day 7 - JavaScript
-Day 8 - Python
-Day 9 - JavaScript
-Day 10 - Python
+- Day 1 - Python
+- Day 2 - JavaScript
+- Day 3 - Python
+- Day 4 - Javascript
+- Day 5 - Python
+- Day 6 - Javascript
+- Day 7 - Python
+- Day 8 - Javascript
+- Day 9 - Python
+- Day 10 - Javascript
 
 _NOTE: Solutions beyond Day 10 will be written, by default, in Python._
