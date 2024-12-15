@@ -15,4 +15,4 @@ It's the favourite time of the year for developers - Advent of Code 2024! Join m
 - Day 9 - Python
 - Day 10 - Javascript
 
-_NOTE: Solutions beyond Day 10 will be written, by default, in Python._
+_NOTE: Solutions beyond Day 10 will be written, by default, in Python. Ensure to replace all `input.in` file contents with your bespoke puzzle input._
