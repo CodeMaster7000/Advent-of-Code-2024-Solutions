@@ -1,4 +1,5 @@
 import {degrees_to_radians, inputToPlayingField, readInput} from "../util.js";
+
 let input = readInput("./input.in");
 let playingField
 function loadPlayingfield() {
@@ -103,4 +104,4 @@ for(let x in playingField){
 }
 checkLoop()
 console.log(counter)
-console.log("Test")
+console.log("Test:")
